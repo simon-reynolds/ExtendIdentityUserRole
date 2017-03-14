@@ -1,0 +1,10 @@
+C:\Users\simon.reynolds\Documents\Projects\ExtendIdentityUserRole\bin\Debug\netcoreapp1.1\ExtendIdentityUserRole.db
+C:\Users\simon.reynolds\Documents\Projects\ExtendIdentityUserRole\bin\Debug\netcoreapp1.1\ExtendIdentityUserRole.deps.json
+C:\Users\simon.reynolds\Documents\Projects\ExtendIdentityUserRole\bin\Debug\netcoreapp1.1\ExtendIdentityUserRole.runtimeconfig.json
+C:\Users\simon.reynolds\Documents\Projects\ExtendIdentityUserRole\bin\Debug\netcoreapp1.1\ExtendIdentityUserRole.runtimeconfig.dev.json
+C:\Users\simon.reynolds\Documents\Projects\ExtendIdentityUserRole\bin\Debug\netcoreapp1.1\ExtendIdentityUserRole.dll
+C:\Users\simon.reynolds\Documents\Projects\ExtendIdentityUserRole\bin\Debug\netcoreapp1.1\ExtendIdentityUserRole.pdb
+C:\Users\simon.reynolds\Documents\Projects\ExtendIdentityUserRole\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\simon.reynolds\Documents\Projects\ExtendIdentityUserRole\obj\Debug\netcoreapp1.1\ExtendIdentityUserRole.AssemblyInfo.cs
+C:\Users\simon.reynolds\Documents\Projects\ExtendIdentityUserRole\obj\Debug\netcoreapp1.1\ExtendIdentityUserRole.dll
+C:\Users\simon.reynolds\Documents\Projects\ExtendIdentityUserRole\obj\Debug\netcoreapp1.1\ExtendIdentityUserRole.pdb
