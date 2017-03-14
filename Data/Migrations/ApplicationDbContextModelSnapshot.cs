@@ -94,7 +94,7 @@ namespace ExtendIdentityUserRole.Data.Migrations
                         .ValueGeneratedOnAdd();
 
                     b.Property<string>("ClaimType");
-dotnet ef database update
+                    
                     b.Property<string>("ClaimValue");
 
                     b.Property<string>("RoleId")
