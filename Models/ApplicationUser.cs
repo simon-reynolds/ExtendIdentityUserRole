@@ -23,6 +23,9 @@ namespace ExtendIdentityUserRole.Models
 
 		public int CompanyId { get; set; }
 		public virtual Company Company { get; set; }
+
+        public virtual ApplicationUser User { get; set; }
+        public virtual CustomRole Role { get; set; }
     }
 
 	public class Company

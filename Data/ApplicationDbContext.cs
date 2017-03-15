@@ -22,7 +22,10 @@ namespace ExtendIdentityUserRole.Data
             // For example, you can rename the ASP.NET Identity table names and more.
             // Add your customizations after calling base.OnModelCreating(builder);
 
+            builder.Ignore<IdentityUserRole<string>>();
+
             builder.Entity<CustomUserRole>().HasIndex(r => r.CustomProperty);
+            builder.Entity<CustomUserRole>().HasKey(r => new { r.UserId, r.RoleId, r.CompanyId });
         }
     }
 }
